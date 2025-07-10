@@ -23,8 +23,8 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/pushparaj-arch/RHYTHM-FRONTEND
+cd RHYTHM-FRONTEND
 ```
 
 ### 2. Open the HTML file
@@ -51,7 +51,7 @@ To deploy this project on GitHub Pages:
 
 The site will be live at:
 ```
-https://your-username.github.io//pushparaj-arch RHYTHM-FRONTEND
+https://your-username.github.io//pushparaj-arch/RHYTHM-FRONTEND
 
 ```
 
